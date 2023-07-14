@@ -1,5 +1,5 @@
 # Oasis_Project
-#Guessing Game
+# Guessing Game
 This is a simple guessing game implemented in Java. The program generates a random number, and the user has to guess the number within a certain number of attempts. The game provides feedback to the user on whether their guess is too high or too low.
 
 How to Play
@@ -8,7 +8,7 @@ The program will generate a random number between a specified range.
 Enter your guess and press enter.
 The program will provide feedback on whether your guess is too high or too low.
 Keep guessing until you correctly guess the number or reach the maximum number of attempts.
-#ATM 
+# ATM 
 The ATM code is a console-based application implemented in Java. It simulates an Automated Teller Machine (ATM) with basic functionalities such as withdrawal, deposit, transfer, transaction history, and user authentication.
 
 Features
